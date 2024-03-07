@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a middle software developer at [AkaChain](https://akachain.io/).
+- ✍ I'm a fresher software developer at Android mobile.
 
 <br />
 
